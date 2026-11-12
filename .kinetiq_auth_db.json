@@ -1,0 +1,725 @@
+{
+  "users": [
+    {
+      "id": "stu-maya-10",
+      "username": "maya.chen",
+      "email": "student@kinetiq.edu",
+      "name": "Maya Chen",
+      "role": "STUDENT",
+      "yearGroup": 10,
+      "house": "Crimson",
+      "studentIdNumber": "SJ-2024-8841",
+      "points": 340,
+      "createdAt": "2026-11-05T10:26:06.145Z",
+      "passwordHash": "59981093c10febc79161e72eddeacab9b1d106b0e4906ddc695573084356c9e8d711d485117f1580550df30f40e97080e5944ebea715dcbf92d3fe183240bc9f",
+      "salt": "d45dd68313c64bd0040b3c1c7635797c",
+      "schoolName": "St. Jude's Academy",
+      "houseVerified": true
+    },
+    {
+      "id": "stu-liam-8",
+      "username": "liam.smith",
+      "email": "liam@kinetiq.edu",
+      "name": "Liam Smith",
+      "role": "STUDENT",
+      "yearGroup": 8,
+      "house": "Tiger",
+      "studentIdNumber": "SJ-2026-1922",
+      "points": 215,
+      "createdAt": "2026-11-05T10:26:06.145Z",
+      "passwordHash": "a814cb2fa6888c9f1d7fda260a07202e6ec272bd07fd59b95b690d72fd52436bfc8693d9dfc0605e718a1b249a588ffcb5dfb96545e01e15693e0a0e8e9daabd",
+      "salt": "82ed9d2359b5dbf91b9450bd3d4d7191",
+      "schoolName": "St. Jude's Academy",
+      "houseVerified": true
+    },
+    {
+      "id": "stu-jordan-12",
+      "username": "jordan.hayes",
+      "email": "jordan@kinetiq.edu",
+      "name": "Jordan Hayes",
+      "role": "STUDENT",
+      "yearGroup": 12,
+      "house": "Sapphire",
+      "studentIdNumber": "SJ-2022-4409",
+      "points": 580,
+      "createdAt": "2026-11-05T10:26:06.145Z",
+      "passwordHash": "b036d7e92817bd383a10f0d668ee6da051ab3af00a53ed4362a568b17de6012c88a0013ae60b8679f460233d51422b200127362dfa0c6becb92a00714318f11d",
+      "salt": "5c3f1ef3de45b7a6ca8b1886a618d6b5",
+      "schoolName": "St. Jude's Academy",
+      "houseVerified": true
+    },
+    {
+      "id": "org-harrison",
+      "username": "david.harrison",
+      "email": "organiser@kinetiq.edu",
+      "name": "Mr. David Harrison",
+      "role": "STUDENT",
+      "schoolName": "St. Jude's Academy",
+      "yearGroup": 11,
+      "className": "11-B",
+      "house": "Amber",
+      "houseVerified": true,
+      "studentIdNumber": "SJ-2024-5512",
+      "points": 180,
+      "createdAt": "2026-11-05T10:26:06.145Z",
+      "passwordHash": "2a6d84bc1918523ef1485ab0dae8aa3d2bc22f7df594f66e13dcacd5ca1f3b98148b533479f14cf6de510865d7942a17309d55cfe441a9ac6110ad33b756dbde",
+      "salt": "a1ecfcdd534ddb8bcaa98d6adec7ab28"
+    },
+    {
+      "id": "org-patel",
+      "username": "angela.patel",
+      "email": "patel@kinetiq.edu",
+      "name": "Dr. Angela Patel",
+      "role": "STUDENT",
+      "schoolName": "St. Jude's Academy",
+      "yearGroup": 12,
+      "className": "12-A",
+      "house": "Sapphire",
+      "houseVerified": true,
+      "studentIdNumber": "SJ-2023-7721",
+      "points": 240,
+      "createdAt": "2026-11-05T10:26:06.145Z",
+      "passwordHash": "ad33ee736e36c884e544d3be53a51222148d7398f6ac3e8e73b2bc7cdd5459a5c9bacf5addcd8b2797d80e78a9793f06f88001313325b6db0b9741f058cc99c3",
+      "salt": "a8111dee666585b82014b9d83b47895e"
+    },
+    {
+      "id": "stu-1793875602216",
+      "username": "newstudent_1793875602171",
+      "email": "newstudent_1793875602171@kinetiq.edu",
+      "name": "Chloe Zhang",
+      "role": "STUDENT",
+      "passwordHash": "16a395ff7c326047da41cefb406dc2ed9e4f4da383a4ab3441ee7d90146c1529b755d56ad21bd4932eb42e2d5ea1105b889cf39e4ba191e0a349a7298f22240f",
+      "salt": "8b07f8a2516fde7f61a5dc2d5c40e7ab",
+      "createdAt": "2026-11-05T10:46:42.216Z",
+      "yearGroup": 11,
+      "house": "Pegasus",
+      "studentIdNumber": "SJ-2026-3216",
+      "points": 50
+    },
+    {
+      "id": "stu-1793875652267",
+      "username": "samuel.taylor",
+      "email": "samuel@kinetiq.edu",
+      "name": "Samuel Taylor",
+      "role": "STUDENT",
+      "passwordHash": "ea6553566f76a2a13676062036e4a62bf30a76f8060d8efc21d6b15fd94cf13e4a7b2b60dcfd3630f2c52c532264fc7c29cbff04e34d8d58276d77a1e38096e3",
+      "salt": "24e79e14a2718de21a9397d77bbe1195",
+      "createdAt": "2026-11-05T10:47:32.267Z",
+      "yearGroup": 10,
+      "house": "Griffin",
+      "studentIdNumber": "SJ-2026-7778",
+      "points": 50
+    },
+    {
+      "id": "stu-1794067563569",
+      "username": "newstudent_1794067563518",
+      "email": "newstudent_1794067563518@kinetiq.edu",
+      "name": "Chloe Zhang",
+      "role": "STUDENT",
+      "passwordHash": "d45963d0c64ee698036cbaa899e98def4d899c080815e42ff5e37954f0178c5db26513241d8a524befe748cca733a69ba0a862e57e700cbfb9a6c4c66e5e821d",
+      "salt": "8f83cb791d2a543dad00e73bb2b84e62",
+      "schoolName": "St. Jude's Academy",
+      "createdAt": "2026-11-07T16:06:03.569Z",
+      "yearGroup": 11,
+      "className": "10-A",
+      "sectionName": "Alpha",
+      "house": "Sapphire",
+      "houseVerified": true,
+      "studentIdNumber": "SJ-2026-8047",
+      "points": 50
+    },
+    {
+      "id": "stu-1794067665713",
+      "username": "alex.rivera",
+      "email": "alex.rivera@stjudes.edu",
+      "name": "Alex Rivera",
+      "role": "STUDENT",
+      "passwordHash": "8458b29610a83b90e2f3e349da93897e5b0a3c8875bca1a1194cfa1f9fcb6828124edbd7dbbd5f00110aaad105831e5dad81eb71cb8432aa7419b229e6ec4411",
+      "salt": "3ecab1dbaab3da3e13bbb09953159b63",
+      "schoolName": "St. Jude's Academy",
+      "createdAt": "2026-11-07T16:07:45.713Z",
+      "yearGroup": 11,
+      "className": "11-A",
+      "sectionName": "Beta",
+      "house": "Tiger",
+      "houseVerified": true,
+      "studentIdNumber": "SJ-2026-8147",
+      "points": 50
+    },
+    {
+      "id": "org-sarang",
+      "username": "sarang",
+      "email": "1300-sarang-smr@smgeducation.org",
+      "name": "Sarang (Lead Administrator)",
+      "role": "ORGANISER",
+      "title": "Principal & Lead Administrator",
+      "department": "School Leadership & SMR TechNova",
+      "passwordHash": "aba6b5dd0669f9dc8148a88c3efca9824248d586e426eb819cc010cdec181090d29e9fc864a0f5f9f16b55f7cfa13feed00ef7ac7a878ef051fa581441bbad26",
+      "salt": "7c4f42efa89dc1b603b6be4e6f143485",
+      "schoolName": "St. Jude's Academy",
+      "createdAt": "2026-11-08T07:54:00.000Z"
+    },
+    {
+      "id": "stu-sofia-zakharia",
+      "username": "sofia.zakharia",
+      "email": "sofia.zakharia@smgeducation.org",
+      "name": "Sofia Zakharia",
+      "role": "STUDENT",
+      "schoolName": "St. Jude's Academy",
+      "yearGroup": 11,
+      "className": "11-A",
+      "sectionName": "Alpha",
+      "house": "Sapphire",
+      "houseVerified": true,
+      "studentIdNumber": "SJ-2025-7814",
+      "points": 420,
+      "createdAt": "2026-11-10T09:03:10.271Z",
+      "passwordHash": "b7b663581abeca844e6133b5c87fd6be76375041803c51eadc7f07d087b084a6bc748cf83624bf978a420699d870fe44f779cd0bed417cbd364c6fe6c5788f8f",
+      "salt": "74f4d028ba36353cbd312ea8bc66bfe6"
+    },
+    {
+      "id": "stu-prashakya",
+      "username": "prashakya",
+      "email": "prashakya@smgeducation.org",
+      "name": "Prashakya",
+      "role": "STUDENT",
+      "schoolName": "St. Jude's Academy",
+      "yearGroup": 10,
+      "className": "10-B",
+      "sectionName": "Beta",
+      "house": "Crimson",
+      "houseVerified": true,
+      "studentIdNumber": "SJ-2024-6590",
+      "points": 390,
+      "createdAt": "2026-11-10T09:03:10.272Z",
+      "passwordHash": "6264199bc220cec483a68092fcd9c13cada1a52549f0af7813f2bfffdb6f26badfb97ac871bd28bc911931984932fcfb4e1755378b98a4d28e4528e2f4c0accf",
+      "salt": "9d46543216bba286af333694472b7ba3"
+    },
+    {
+      "id": "6f0ef107-7842-48b7-939e-a17d23e1ae79",
+      "username": "alex.robinson",
+      "email": "alex.robinson@smgeducation.org",
+      "name": "Alex Robinson",
+      "role": "STUDENT",
+      "passwordHash": "68abca8cbede3843eea2f88efd49d885b6dd28d0c2a9ed3344fa62ea99b3033b041eceda48fafb6cd96550d1e3b3e83cec76c408fe968c43c3483a43771c4d2c",
+      "salt": "3ebcd4459258f0706406ff861a843ad3",
+      "schoolName": "St. Jude's Academy",
+      "yearGroup": 10,
+      "className": "10-A",
+      "sectionName": "Alpha",
+      "house": "Crimson",
+      "houseVerified": false,
+      "createdAt": "2026-11-11T10:58:40.792Z"
+    }
+  ],
+  "sessions": [
+    {
+      "token": "b1523926781d65fc7f9c3ca2e03778bcdc12eb73b8eeef6246a1a4cb5dfcf7d5",
+      "userId": "org-harrison",
+      "createdAt": 1793874804929,
+      "expiresAt": 1794479604929
+    },
+    {
+      "token": "3b7c5dbab9709b056bee36e5e84f3c098984a386ae6a01a86f9da211c95ba8b2",
+      "userId": "stu-1793875652267",
+      "createdAt": 1793875652268,
+      "expiresAt": 1794480452268
+    },
+    {
+      "token": "dd9acaf009ae82fefa2fa4582f5479a74d9f36d80c94528e8eba3bf5fd01500d",
+      "userId": "stu-maya-10",
+      "createdAt": 1793875653949,
+      "expiresAt": 1794480453949
+    },
+    {
+      "token": "7cf7e096fab9f92cfa2e648cf9e385859de5f9bf05817ede9b8b2dae640f1552",
+      "userId": "stu-1794067665713",
+      "createdAt": 1794067665714,
+      "expiresAt": 1794672465714
+    },
+    {
+      "token": "d47fec56960d1b7f5bae483538c7772761c88ae34c5637d21541cfc810c1bf28",
+      "userId": "stu-1794067665713",
+      "createdAt": 1794067668986,
+      "expiresAt": 1794672468986
+    },
+    {
+      "token": "7a4d963c46c0bd5e494a0ab187e4b7ca9e4033b3e5ceb1aaf8551a966c3f5cd8",
+      "userId": "org-harrison",
+      "createdAt": 1794067672179,
+      "expiresAt": 1794672472179
+    },
+    {
+      "token": "47e6c0c6f5568f98ea3e93fcf04e9504838cc06deba53c39a3bd3b583ca1317b",
+      "userId": "org-harrison",
+      "createdAt": 1794068484706,
+      "expiresAt": 1794673284706
+    },
+    {
+      "token": "1ab95e3c04b98768a217baddd3ace9b71ba0a16c0bdb54f434be5c4a3de9eda1",
+      "userId": "org-sarang",
+      "createdAt": 1794218727945,
+      "expiresAt": 1794823527945
+    },
+    {
+      "token": "3ac03040cb539f01556db8d04306400d9dafd6037de565b659af251d5ebc6b4a",
+      "userId": "org-sarang",
+      "createdAt": 1794219036334,
+      "expiresAt": 1794823836334
+    },
+    {
+      "token": "29f8e66001c8ff08a6d9d0de6a3dc6914150923f6e64f08af1f4cc81f7f71afb",
+      "userId": "org-sarang",
+      "createdAt": 1794219036464,
+      "expiresAt": 1794823836464
+    },
+    {
+      "token": "83a0df093457a1e12e216e98a42c3887f49d77db8a554374e94f5f5f11561b3c",
+      "userId": "org-sarang",
+      "createdAt": 1794219036561,
+      "expiresAt": 1794823836561
+    },
+    {
+      "token": "7f2d05ccbf052261d08ae7c21bce68a676bdc63e447b6783334b018b9c5577f0",
+      "userId": "stu-liam-8",
+      "createdAt": 1794222077612,
+      "expiresAt": 1794826877612
+    },
+    {
+      "token": "9259c5e368dc20807b07b6ce6ff95f4b92f296d2dcdb6d1a6fe0ad07effeacc0",
+      "userId": "org-sarang",
+      "createdAt": 1794301158326,
+      "expiresAt": 1794905958326
+    },
+    {
+      "token": "40b925ba0d9cef3332c01e01c5cc6fc1b193e3ad9f4e9335052f63eea3d6b9a7",
+      "userId": "stu-sofia-zakharia",
+      "createdAt": 1794301397181,
+      "expiresAt": 1794906197181
+    },
+    {
+      "token": "b9b9756ae473e056f50f58566a95aecec624585c5d1b89830516e7d6a18a3033",
+      "userId": "stu-prashakya",
+      "createdAt": 1794301404087,
+      "expiresAt": 1794906204087
+    },
+    {
+      "token": "f1f86874cbc8f6c98b3ee4c2c73cc8af740e72ce2b6fc7b11504cb50e5117c77",
+      "userId": "org-sarang",
+      "createdAt": 1794394677410,
+      "expiresAt": 1794999477410
+    },
+    {
+      "token": "841a935441e104b69229172dbed77a2cf4610dfc980c5d39b3b2c3bf20a3b816",
+      "userId": "org-sarang",
+      "createdAt": 1794394716828,
+      "expiresAt": 1794999516828
+    },
+    {
+      "token": "89ce599831da128583fd2dbdf729583a08350879ca1f077a006283861f394c50",
+      "userId": "6f0ef107-7842-48b7-939e-a17d23e1ae79",
+      "createdAt": 1794394720792,
+      "expiresAt": 1794999520792
+    },
+    {
+      "token": "090d7eb748de70333cbe451aadc398a3767cf0499ba61eeb0456cd19245fb9bd",
+      "userId": "org-sarang",
+      "createdAt": 1794394859865,
+      "expiresAt": 1794999659865
+    }
+  ],
+  "resetRequests": [],
+  "schools": [
+    {
+      "id": "school-st-judes",
+      "name": "St. Jude's Academy",
+      "isDefault": true,
+      "yearGroups": [
+        {
+          "year": 7,
+          "classes": [
+            "7-A",
+            "7-B",
+            "7-C",
+            "7-Alpha"
+          ]
+        },
+        {
+          "year": 8,
+          "classes": [
+            "8-A",
+            "8-B",
+            "8-C",
+            "8-Honours"
+          ]
+        },
+        {
+          "year": 9,
+          "classes": [
+            "9-A",
+            "9-B",
+            "9-C",
+            "9-STEM",
+            "9-Arts"
+          ]
+        },
+        {
+          "year": 10,
+          "classes": [
+            "10-A",
+            "10-B",
+            "10-C",
+            "10-Science",
+            "10-Business"
+          ]
+        },
+        {
+          "year": 11,
+          "classes": [
+            "11-A",
+            "11-B",
+            "11-C",
+            "11-Accelerated"
+          ]
+        },
+        {
+          "year": 12,
+          "classes": [
+            "12-A",
+            "12-B",
+            "12-STEM",
+            "12-Humanities"
+          ]
+        },
+        {
+          "year": 13,
+          "classes": [
+            "13-A",
+            "13-B",
+            "13-Senior"
+          ]
+        }
+      ],
+      "sections": [
+        "Alpha",
+        "Beta",
+        "Gamma",
+        "Delta",
+        "Omega"
+      ]
+    },
+    {
+      "id": "school-technova-intl",
+      "name": "TechNova International High",
+      "isDefault": false,
+      "yearGroups": [
+        {
+          "year": 9,
+          "classes": [
+            "9-Tech",
+            "9-Cyber",
+            "9-Media"
+          ]
+        },
+        {
+          "year": 10,
+          "classes": [
+            "10-AI",
+            "10-Robotics",
+            "10-Design",
+            "10-Foundations"
+          ]
+        },
+        {
+          "year": 11,
+          "classes": [
+            "11-PreMed",
+            "11-Engineering",
+            "11-Data",
+            "11-Venture"
+          ]
+        },
+        {
+          "year": 12,
+          "classes": [
+            "12-AdvComputing",
+            "12-FinTech",
+            "12-Biotech"
+          ]
+        }
+      ],
+      "sections": [
+        "Alpha",
+        "Beta",
+        "Gamma"
+      ]
+    },
+    {
+      "id": "school-oakridge",
+      "name": "Oakridge Secondary School",
+      "isDefault": false,
+      "yearGroups": [
+        {
+          "year": 7,
+          "classes": [
+            "7-Oak",
+            "7-Pine",
+            "7-Elm"
+          ]
+        },
+        {
+          "year": 8,
+          "classes": [
+            "8-Oak",
+            "8-Pine",
+            "8-Elm"
+          ]
+        },
+        {
+          "year": 9,
+          "classes": [
+            "9-Oak",
+            "9-Pine",
+            "9-Cedar"
+          ]
+        },
+        {
+          "year": 10,
+          "classes": [
+            "10-Oak",
+            "10-Pine",
+            "10-Cedar"
+          ]
+        },
+        {
+          "year": 11,
+          "classes": [
+            "11-Oak",
+            "11-Pine"
+          ]
+        },
+        {
+          "year": 12,
+          "classes": [
+            "12-Oak",
+            "12-Pine"
+          ]
+        },
+        {
+          "year": 13,
+          "classes": [
+            "13-Senior"
+          ]
+        }
+      ],
+      "sections": [
+        "Alpha",
+        "Beta",
+        "Gamma",
+        "Delta"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "id": "evt-sports-day-2026",
+      "title": "Annual Inter-House Sports Day & Athletics Championship",
+      "description": "The premier whole-school sports festival. Features 100m/200m track sprints, 4x100m relay, long jump, shot put, and the legendary Inter-House tug-of-war across Crimson, Tiger, Amber, Lime, and Sapphire houses.",
+      "category": "Sports",
+      "date": "2026-11-20",
+      "startTime": "09:00",
+      "endTime": "15:30",
+      "location": "St. Jude's Olympic Athletics Stadium & Oval Track",
+      "audience": "ALL_SCHOOL",
+      "targetYearGroups": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "requiresRegistration": false,
+      "capacity": 1200,
+      "registeredStudentIds": [],
+      "registrationDeadline": "2026-11-19 18:00",
+      "status": "UPCOMING",
+      "organizerName": "Sarang (Lead Administrator)",
+      "featured": true,
+      "houseAffiliation": "ALL_HOUSES"
+    },
+    {
+      "id": "evt-talent-show-2026",
+      "title": "St. Jude’s Got Talent: Annual Whole-School Showcase",
+      "description": "The ultimate stage for our school community! Live student musical performances, vocal solos, classical dance, dramatic monologues, and comedy. Judged by faculty with audience interactive voting.",
+      "category": "Arts & Drama",
+      "date": "2026-11-27",
+      "startTime": "16:00",
+      "endTime": "19:30",
+      "location": "Main School Performing Arts Auditorium",
+      "audience": "ALL_SCHOOL",
+      "targetYearGroups": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "requiresRegistration": true,
+      "capacity": 450,
+      "registeredStudentIds": [],
+      "registrationDeadline": "2026-11-25 20:00",
+      "status": "UPCOMING",
+      "organizerName": "Sarang (Lead Administrator)",
+      "featured": true
+    },
+    {
+      "id": "evt-dubai-trip-2026",
+      "title": "International School Trip to Dubai (Innovation, STEM & Culture)",
+      "description": "An unforgettable 5-day educational expedition to Dubai, UAE. Highlights include guided VIP tours of the Museum of the Future, EXPO City sustainability pavilions, desert astronomy camp, and university tech research labs.",
+      "category": "Academic & Careers",
+      "date": "2026-12-05",
+      "startTime": "07:30",
+      "endTime": "21:00",
+      "location": "Dubai, United Arab Emirates (Departure: Terminal 3)",
+      "audience": "YEAR_GROUP",
+      "targetYearGroups": [
+        10,
+        11,
+        12,
+        13
+      ],
+      "requiresRegistration": true,
+      "capacity": 60,
+      "registeredStudentIds": [],
+      "registrationDeadline": "2026-11-25 17:00",
+      "status": "UPCOMING",
+      "organizerName": "Sarang (Lead Administrator)",
+      "featured": true,
+      "requiresParentConsent": true,
+      "consentFormId": "cf-dubai-trip"
+    },
+    {
+      "id": "evt-awards-ceremony-2026",
+      "title": "Annual Academic & Leadership Awarding Ceremony",
+      "description": "Celebrating high academic distinction, sports achievements, community service honours, and the prestigious SMR TechNova Innovation Cup. Parents, guardians, and students cordially invited.",
+      "category": "Leadership & Council",
+      "date": "2026-12-18",
+      "startTime": "17:00",
+      "endTime": "20:00",
+      "location": "Grand Heritage Assembly Hall & Quadrangle",
+      "audience": "ALL_SCHOOL",
+      "targetYearGroups": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "requiresRegistration": false,
+      "capacity": 800,
+      "registeredStudentIds": [],
+      "registrationDeadline": "2026-12-16 12:00",
+      "status": "UPCOMING",
+      "organizerName": "Sarang (Lead Administrator)",
+      "featured": true
+    },
+    {
+      "id": "evt-junior-science-fair",
+      "title": "Year 7 & 8 Junior Science Fair & Discovery Expo",
+      "description": "Interactive STEM demonstrations, volcano chemical reactions, renewable wind turbine prototypes, and microscopic biological discoveries presented by Year 7 and 8 science cohorts.",
+      "category": "STEM & Robotics",
+      "date": "2026-11-18",
+      "startTime": "13:00",
+      "endTime": "15:30",
+      "location": "Science Atrium & Laboratory Wing B",
+      "audience": "YEAR_GROUP",
+      "targetYearGroups": [
+        7,
+        8
+      ],
+      "requiresRegistration": false,
+      "capacity": 250,
+      "registeredStudentIds": [],
+      "registrationDeadline": "2026-11-17 17:00",
+      "status": "UPCOMING",
+      "organizerName": "Sarang (Lead Administrator)"
+    },
+    {
+      "id": "evt-middle-sports-cup",
+      "title": "Year 9 & 10 Inter-Class Basketball & Volleyball Cup",
+      "description": "Fast-paced round-robin tournament between Year 9 and Year 10 class cohorts. Trophies for championship team, fair play award, and top tournament scorer.",
+      "category": "Sports",
+      "date": "2026-11-23",
+      "startTime": "14:30",
+      "endTime": "17:00",
+      "location": "Indoor Sports Arena & Court 1",
+      "audience": "YEAR_GROUP",
+      "targetYearGroups": [
+        9,
+        10
+      ],
+      "requiresRegistration": true,
+      "capacity": 120,
+      "registeredStudentIds": [],
+      "registrationDeadline": "2026-11-21 18:00",
+      "status": "UPCOMING",
+      "organizerName": "Sarang (Lead Administrator)"
+    },
+    {
+      "id": "evt-senior-careers-symposium",
+      "title": "Year 11 & 12 Pre-University & Careers Symposium",
+      "description": "Direct panel discussions with university admissions directors, medicine & law professionals, AI tech founders, and apprenticeship advisors. Personal statement breakout workshops included.",
+      "category": "Academic & Careers",
+      "date": "2026-11-30",
+      "startTime": "10:00",
+      "endTime": "14:00",
+      "location": "Sixth Form Lecture Theatre & Conference Suite",
+      "audience": "YEAR_GROUP",
+      "targetYearGroups": [
+        11,
+        12,
+        13
+      ],
+      "requiresRegistration": true,
+      "capacity": 180,
+      "registeredStudentIds": [],
+      "registrationDeadline": "2026-11-28 16:00",
+      "status": "UPCOMING",
+      "organizerName": "Sarang (Lead Administrator)"
+    },
+    {
+      "id": "evt-winter-charity-carnival",
+      "title": "Winter Charity Carnival & Festival of Lights",
+      "description": "Community holiday bazaar featuring hot cocoa stalls, handcrafted goods, charity bake sales, acoustic choir carols, and student council games raising funds for local children’s hospitals.",
+      "category": "Community & Charity",
+      "date": "2026-12-14",
+      "startTime": "15:30",
+      "endTime": "19:00",
+      "location": "Central School Courtyard & Covered Walkway",
+      "audience": "ALL_SCHOOL",
+      "targetYearGroups": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "requiresRegistration": false,
+      "capacity": 600,
+      "registeredStudentIds": [],
+      "registrationDeadline": "2026-12-13 12:00",
+      "status": "UPCOMING",
+      "organizerName": "Sarang (Lead Administrator)"
+    }
+  ],
+  "personalEvents": [],
+  "suggestions": []
+}

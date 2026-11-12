@@ -1,0 +1,8 @@
+{
+  "name": "School Events Planner",
+  "description": "Discover school activities, register with personalized calendars, submit anonymous moderated feedback, suggest new events, and assist organizers with AI insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

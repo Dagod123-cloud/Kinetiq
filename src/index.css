@@ -1,0 +1,182 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+    color: #0f172a;
+    background-color: #090d16;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  h1, h2, h3, h4, .font-heading {
+    font-family: 'Space Grotesk', 'Plus Jakarta Sans', sans-serif;
+  }
+}
+
+/* Custom scrollbars */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #334155;
+  border-radius: 9999px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #64748b;
+}
+
+/* Glowing Aurora Accents & Glass cards */
+.glass-panel {
+  background: rgba(17, 24, 39, 0.75);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.glass-panel-light {
+  background: rgba(255, 255, 255, 0.88);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(226, 232, 240, 0.9);
+}
+
+.glow-purple {
+  box-shadow: 0 0 30px -5px rgba(124, 58, 237, 0.35);
+}
+
+.glow-cyan {
+  box-shadow: 0 0 30px -5px rgba(6, 182, 212, 0.35);
+}
+
+.glow-amber {
+  box-shadow: 0 0 30px -5px rgba(245, 158, 11, 0.35);
+}
+
+/* 5 PE School House Themes */
+.house-crimson {
+  background: linear-gradient(135deg, #be123c 0%, #e11d48 50%, #dc2626 100%);
+  color: white;
+}
+
+.house-tiger {
+  background: linear-gradient(135deg, #ea580c 0%, #f97316 50%, #f59e0b 100%);
+  color: white;
+}
+
+.house-amber {
+  background: linear-gradient(135deg, #d97706 0%, #f59e0b 50%, #fbbf24 100%);
+  color: #0f172a;
+  font-weight: 800;
+}
+
+.house-lime {
+  background: linear-gradient(135deg, #4d7c0f 0%, #65a30d 50%, #84cc16 100%);
+  color: #0f172a;
+  font-weight: 800;
+}
+
+.house-sapphire {
+  background: linear-gradient(135deg, #1d4ed8 0%, #2563eb 50%, #38bdf8 100%);
+  color: white;
+}
+
+/* ================= THEME MODES: LIGHT, ROBOTIC, COOL ================= */
+html.theme-light body,
+.theme-light {
+  background-color: #f8fafc !important;
+  color: #0f172a !important;
+}
+
+html.theme-light header {
+  background-color: rgba(255, 255, 255, 0.95) !important;
+  border-color: #e2e8f0 !important;
+}
+
+html.theme-light .bg-slate-900,
+html.theme-light .bg-slate-900\/90,
+html.theme-light .bg-slate-950,
+html.theme-light .bg-slate-950\/90,
+html.theme-light .bg-slate-950\/80 {
+  background-color: #ffffff !important;
+  border-color: #e2e8f0 !important;
+  color: #0f172a !important;
+}
+
+html.theme-light .text-white {
+  color: #0f172a !important;
+}
+
+html.theme-light .text-slate-400,
+html.theme-light .text-slate-300 {
+  color: #475569 !important;
+}
+
+html.theme-light footer {
+  background-color: #f1f5f9 !important;
+  border-color: #e2e8f0 !important;
+}
+
+/* Cyber Robotic Theme */
+html.theme-robotic body,
+.theme-robotic {
+  background-color: #020617 !important;
+  color: #ecfdf5 !important;
+  background-image: radial-gradient(rgba(16, 185, 129, 0.08) 1px, transparent 0) !important;
+  background-size: 24px 24px !important;
+}
+
+html.theme-robotic .text-cyan-400,
+html.theme-robotic .text-cyan-300 {
+  color: #34d399 !important;
+}
+
+/* Electric Aurora Theme */
+html.theme-cool body,
+.theme-cool {
+  background-color: #090514 !important;
+  color: #f3e8ff !important;
+  background-image: radial-gradient(rgba(168, 85, 247, 0.12) 1px, transparent 0) !important;
+  background-size: 32px 32px !important;
+}
+
+/* Universal Form Input Text Styling: strictly black text for all typed content across Student & Admin panels */
+input,
+textarea,
+select {
+  color: #000000 !important;
+  -webkit-text-fill-color: #000000 !important;
+}
+
+input:not([type="checkbox"]):not([type="radio"]):not([type="range"]),
+textarea,
+select {
+  background-color: #ffffff !important;
+  color: #000000 !important;
+  -webkit-text-fill-color: #000000 !important;
+  border-color: #cbd5e1 !important;
+}
+
+input:focus,
+textarea:focus,
+select:focus {
+  background-color: #ffffff !important;
+  color: #000000 !important;
+  -webkit-text-fill-color: #000000 !important;
+  outline: none !important;
+  border-color: #3b82f6 !important;
+}
+
+input::placeholder,
+textarea::placeholder {
+  color: #64748b !important;
+  -webkit-text-fill-color: #64748b !important;
+}
+
+
